@@ -6,7 +6,7 @@
 
 <div align="center">
   <h1>👋 Hi there, I'm Ishmam Tahmid</h1>
-  <h3>🚀 Full Stack Developer | AI/ML Enthusiast | Competitive Programmer</h3>
+  <h3>🚀 Full Stack Developer | AI/ML Enthusiast</h3>
   <p><em>Passionate about creating innovative solutions and expanding my knowledge in emerging technologies</em></p>
 </div>
 
