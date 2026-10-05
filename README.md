@@ -39,14 +39,7 @@
 
 ---
 
-## 🎯 About Me
 
-- 🌱 **Currently Learning:** AI/ML with LangChain
-- 👯 **Looking to Collaborate:** Full Stack Projects
-- 🤝 **Seeking Help With:** Competitive Programming
-- 📫 **Contact:** [tahmidcse001@gmail.com](mailto:tahmidcse001@gmail.com)
-
----
 
 ## 🛠️ Languages & Tools
 
